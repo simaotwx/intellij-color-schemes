@@ -1261,12 +1261,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="c792ea" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="JAVA_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="89ddff" />
